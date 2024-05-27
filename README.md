@@ -4,6 +4,7 @@
 ## Future project ideas
 - Custom (mechanical) keyboard
 - Custom OBD logger with visualization tool
+- Distortion pedal circuit
 - Signal generator on FPGA/Zynq
 - Explore use cases for Z3/MCRL2
 - Physical visualization board with LEDs that trace the route of internet traffic from the house in real-time
